@@ -1,5 +1,3 @@
-# on execution, program will fill queue with 300 prophecies.
-
 from os import path
 from urllib.parse import urljoin
 from tkinter import *
